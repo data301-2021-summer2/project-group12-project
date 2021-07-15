@@ -1,10 +1,10 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 12 - {Video Games}
 
-- Your title can change over time.
+-
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone 1- Find Dataset
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -16,9 +16,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Dhairya Bhatia: Im Dhairya Bhatia, about to enter 2nd year winter 2021 and my hobbies include video games(mostly playing smash)
+- Saksham Rana: one sentence about you!
+- Connor McTavish: one sentence about you!
 
 ## References
 
