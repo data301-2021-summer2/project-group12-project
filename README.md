@@ -17,7 +17,7 @@ Milestone 1 - Find Dataset
 ## Team Members
 
 - Dhairya Bhatia: I am Dhairya Bhatia, about to enter sophomore year of college in  winter 2021 session. 
-- Saksham Rana: one sentence about you!
+- Saksham Rana: I am Saksham Rana, second year computer science student at UBCO.  !
 - Connor McTavish: one sentence about you!
 
 ## References
