@@ -12,8 +12,12 @@ Milestone 2 - Data Analysis
 
 All of us have a interest in Video Games and its progress and popularity
 *Dhairya: How did the modern  console wars looked in the generation of PS4 and Xbox One in terms of sales*  <br/>
+
+
+*Connor :  Are certain genres more popular in certain regions, or are genre sales consistent globally?*
+
 *Saksham : Which region of the world helps make publisher maximum profit?*  <br/>
-*Connor :  What is the effect of advertising expenses on total sales, and what is the optimal amount to spend on advertising to maximize sales?*
+
 <br>
 
 ## Describe your dataset in about 150-200 words
