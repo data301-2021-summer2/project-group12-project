@@ -5,7 +5,7 @@
 ## Milestones
 
 Milestone 1 - Find Dataset
-
+Milestone 2 - Data Analysis
 ## Describe your topic/interest in about 150-200 words
 
 <br>
