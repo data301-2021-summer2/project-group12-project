@@ -10,7 +10,7 @@ Milestone 2 - Data Analysis
 
 <br>
 
-All of us have a interest in Video Games and its progress and popularity
+All of us have a interest in Video Games and its progress and popularity </br>
 *Dhairya: How did the modern  console wars looked in the generation of PS4 and Xbox One in terms of sales*  <br/>
 
 
