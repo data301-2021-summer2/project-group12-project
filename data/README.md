@@ -2,4 +2,4 @@
 
 ---
 
-Commit 1: This commit includes adding files *PS4_gamesales.csv* and *XboxOne_GameSales.csv*
+### ***This folder contains both processed(process csv files and tablaue worksheets) and raw data(csv files)***
