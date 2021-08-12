@@ -1,12 +1,12 @@
-import pandas
+import pandas 
 def load_and_process(url_or_path_to_csv_file):
-
-    # Method Chain 1 (Load data and deal with missing data)
-
+    
     df1 = (
+           
           pandas.read_csv(url_or_path_to_csv_file,encoding = 'latin')
-          
-          
+          .dropna().reset_index(drop = True)
+          .drop(columns='Year')
+            
       )
 
     range1 = range(500,len(df1))
