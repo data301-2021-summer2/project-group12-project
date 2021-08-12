@@ -5,7 +5,8 @@
 ## Milestones
 
 Milestone 1 - Find Dataset</br>
-Milestone 2 - Data Analysis
+Milestone 2 - Data Analysis</br>
+Milestone 3 - Addressal feedback and exporting processed CSV files
 ## Describe your topic/interest in about 150-200 words
 
 <br>
